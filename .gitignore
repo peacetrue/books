@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+# idea
+.idea
+*.iws
+*.iml
+*.ipr
+# books
+## all ignored
+*.pdf
+*.mobi
+*.epub
+*.CHM
+组成原理
+## some excluded
+!程序员的自我修养.pdf
